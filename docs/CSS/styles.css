@@ -81,7 +81,7 @@ p {
   color: #fff;
 }
 .r-image {
-  width: 40%;
+  width: 50%;
   height: 50%;
   border-radius: 5%;
   margin: 50px;
@@ -117,7 +117,7 @@ p {
     transform: rotate(0);
   }
 }
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1028px) {
   .r-image {
     width: 80%; /* Adjust width for mobile devices */
     margin: 20px; /* Adjust margin for spacing */

@@ -1,8 +1,3 @@
-#map {
-  height: 40rem;
-  width: 100%;
-}
-
 #resources-container {
   display: flex;
   justify-content: space-between;
@@ -17,6 +12,7 @@
 }
 
 #map {
+  height: 40rem;
   width: 70%;
 }
 
@@ -27,7 +23,7 @@
 @media (max-width: 768px) {
   #resources-container {
     display: block;
-    width: 100vw;
+    width: 95vw;
     height: 70vh;
   }
   #locations-list {
