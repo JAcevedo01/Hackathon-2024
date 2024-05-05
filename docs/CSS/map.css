@@ -23,21 +23,18 @@
 @media (max-width: 768px) {
   #resources-container {
     display: block;
-    width: 95vw;
+    width: 100vw;
     height: 70vh;
   }
   #locations-list {
     margin: 1rem !important;
     width: 100%;
-    overflow: scroll;
     max-height: 100%;
+    overflow: scroll;
   }
   #map {
-    width: 100%;
+    width: 95%;
     margin-left: 1rem !important;
     margin-right: 1rem !important;
-  }
-  .title-image {
-    max-width: 10rem;
   }
 }
