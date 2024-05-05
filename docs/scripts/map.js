@@ -109,7 +109,7 @@ function initializeLocationList(dataList) {
           class="badge text-bg-primary rounded-pill"
           title="Get Directions"
         >
-          <img class="directions-logo" src="/images/directions-logo.svg" alt="Get Directions" />
+          <img class="directions-logo" src="../images/directions-logo.svg" alt="Get Directions" />
         </a>
       </li>
     `.asElement();
