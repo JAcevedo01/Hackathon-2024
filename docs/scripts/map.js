@@ -86,11 +86,6 @@ function initializeLocationList(dataList) {
     const telephone = location.tel ?? "";
     const telephoneHref = location.tel === undefined ? "" : `tel: ${location.tel}`;
 
-    const facilityTypeHtml =
-      location.facilityType === undefined
-        ? ""
-        : html`<div>• ${location.facilityType ?? ""}</div>`.toString();
-
     const descriptionHtml =
       location.description === undefined
         ? ""
@@ -106,7 +101,7 @@ function initializeLocationList(dataList) {
           <div>
             <span>${location.hours + " • " ?? ""}</span> <a href="${telephoneHref}">${telephone}</a>
           </div>
-          $${facilityTypeHtml} $${descriptionHtml}
+          $${descriptionHtml}
         </div>
         <a
           href="${getGoogleMapsUrl(lat, lon)}"

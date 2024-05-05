@@ -3,7 +3,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FIRST BAPTIST CHURCH (SK)",
     address: "100-10 Astoria Blvd, East Elmhurst, New York, 11369",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(718) 446-0200",
     lat: "40.7616138",
@@ -12,7 +12,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FIRST BAPTIST CHURCH OF CORONA (FP)",
     address: "100-10 Astoria Blvd, East Elmhurst, NY, 11369, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 3:00 PM",
     tel: "(718) 446-0200",
     lat: "40.7616138",
@@ -21,7 +21,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NORTHEAST CONFERENCE COMMUNITY CENTER SDA",
     address: "99-13 Northern Blvd, East Elmhurst, New York, 11369",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(347) 527-2444",
     lat: "40.757604549999996",
@@ -30,7 +30,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. MARK AME CHURCH/THE VOICE OF HAGAR",
     address: "95-18 Northern Blvd, Jackson Heights, New York, 11372",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Tue",
     tel: "(718) 205-0506",
     lat: "40.755575",
@@ -39,7 +39,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MT. OLIVET GOSPEL CHURCH",
     address: "33-27 97th St, Corona, New York, 11368",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 5:30 PM Wed",
     tel: "(718) 478-0780",
     lat: "40.7486004",
@@ -48,7 +48,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ELMCOR YOUTH & ADULT ACTIVITIES #2 (FP)",
     address: "33-16 108th St, Corona, New York, 11368",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(718) 651-0096",
     lat: "40.749417",
@@ -57,7 +57,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CORONA SEVENTH DAY ADVENTIST CHURCH",
     address: "35-30 103rd St, Corona, New York, 11368",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Sun",
     tel: "(718) 429-7050",
     lat: "40.75379485",
@@ -66,7 +66,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BRIGADA DE ESPERANZA INC",
     address: "89-07 ASTORIA BLVD, QUEENS, NY, 11369",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 3:00 PM",
     tel: "(718) 530-8638",
     lat: "40.76404105",
@@ -75,7 +75,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "IGLESIA CRISTIANA EVANGELICA",
     address: "34-35 96th St, Corona, New York, 11368",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Sat",
     tel: "(347) 938-9368",
     lat: "40.7400036",
@@ -84,7 +84,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY QUEENS TEMPLE CORP",
     address: "86-07 35th Ave, Jackson Heights, New York, 11372",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:30 AM Mon",
     tel: "(718) 335-3693",
     lat: "40.75248405",
@@ -93,7 +93,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LOVE WINS FOOD PANTRY - MERCADITO SOLIDARIO",
     address: "3763 83RD STREET, JACKSON HEIGHTS",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Fri",
     tel: "(347) 735-6989",
     lat: "40.7538033",
@@ -102,7 +102,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BETHANY PANTRY",
     address: "48-08 91st Pl, Elmhurst, New York, 11373",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(917) 533-1679",
     lat: "40.741415",
@@ -111,7 +111,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "EVANGELICAL CHURCH CHRIST IS THE LIGHT",
     address: "89-16 48th Ave, Elmhurst, New York, 11373",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Fri",
     tel: "(718) 592-2701",
     lat: "40.7410665",
@@ -120,7 +120,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CORPUS CHRISTI FOOD PANTRY",
     address: "31-30 61st St, Woodside, New York, 11377",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 278-8114",
     lat: "40.7442604",
@@ -129,7 +129,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FOREST HILLS SENIORS CENTER",
     address: "108-25 62nd Dr, Forest Hills, New York, 11375",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:30 AM Thu",
     tel: "(929) 349-9740",
     lat: "40.7361611",
@@ -138,7 +138,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BVM/ST. MARY'S CHURCH WINFIELD",
     address: "70-31 48th Ave, Woodside, New York, 11377",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Thu",
     tel: "(718) 672-4848",
     lat: "40.738641799999996",
@@ -147,7 +147,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "AIDS CENTER OF QUEENS COUNTY (WOODSIDE)",
     address: "62-07 Woodside Ave, Woodside, New York, 11377",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(718) 472-9400",
     lat: "40.744766",
@@ -156,7 +156,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MASBIA OF QUEENS",
     address: "105-47 64th Rd, Forest Hills, New York, 11375",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:00 PM Sun",
     tel: "(718) 534-7321",
     lat: "40.7315844",
@@ -165,7 +165,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ICNA FLUSHING FOOD PANTRY",
     address: "140-32 Cherry Ave, Flushing, New York, 11355",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(929) 329-7986",
     lat: "40.75435025",
@@ -174,7 +174,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY ASTORIA CORPS",
     address: "45-18 Broadway, Astoria, New York, 11103",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(718) 721-9046",
     lat: "40.7663404",
@@ -183,7 +183,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ESTHER GRUNBLATT-CENTRAL QUEENS Y (FPK)",
     address: "67-09 108th St, Forest Hills, New York, 11375",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sun",
     tel: "(718) 704-8160",
     lat: "40.7286758",
@@ -192,7 +192,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "YESHUA WORLDWIDE MINISTRIES FOOD PANTRY (FP)",
     address: "79-11 Caldwell Ave, Middle Village, NY, 11379, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(347) 507-1689",
     lat: "40.7257673",
@@ -201,7 +201,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FOOD SHARING WITH OUR NEIGHBORS PROGRAMS (FP)",
     address: "38-24 149th St, Flushing, New York, 11354",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Thu",
     tel: "(718) 939-8599",
     lat: "40.7690448",
@@ -210,7 +210,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "POMONOK FOOD PANTRY (FP)",
     address: "67-09 Kissena Blvd, Flushing, New York, 11367",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(718) 591-6060",
     lat: "40.7543143",
@@ -219,7 +219,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GRACE & PEACE FOOD BANK",
     address: "525 Compton Ave, Bronx, NY, 10473, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(718) 924-8839",
     lat: "40.81294285",
@@ -228,7 +228,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SPANISH SOUNDVIEW SEVENTH DAY ADVENTIST CHURCH",
     address: "1822 Lacombe Ave, Bronx, New York, 10473",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Wed",
     tel: "(718) 842-7373",
     lat: "40.814979111111114",
@@ -237,7 +237,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SHOUT FOR JOY BAPTIST CHURCH INC",
     address: "456 White Plains Rd, Bronx, NY, 10473, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Sat",
     tel: "(347) 400-0409",
     lat: "40.8149897",
@@ -246,7 +246,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "EVANGEL FOOD PANTRY",
     address: "39-21 Crescent St, Long Island City, New York, 11101",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(718) 361-5454",
     lat: "40.7489744",
@@ -255,7 +255,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST - ASTORIA MOBILE MARKET",
     address: "1-11 Astoria Blvd, Astoria, NY, 11102, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Thu",
     tel: "(646) 412-0725",
     lat: "40.771776",
@@ -264,7 +264,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. RAPHAEL CHURCH FOOD PANTRY",
     address: "35-20 Greenpoint Ave, Sunnyside, New York, 11104",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:30 PM Sat",
     tel: "(718) 729-8957",
     lat: "40.7371642",
@@ -273,7 +273,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PRODIGAL CENTER",
     address: "709 Tiffany St, Bronx, New York, 10474",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(718) 644-8523",
     lat: "40.8141959",
@@ -282,7 +282,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HOUR CHILDREN COMMUNITY OUTREACH (FP)",
     address: "36-49 11th St, Astoria, New York, 11106",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 AM Mon",
     tel: "(718) 482-8226",
     lat: "40.766183",
@@ -291,7 +291,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "QUEENS JEWISH COMMUNITY COUNCIL",
     address: "119-45 Union Tpke, Forest Hills, New York, 11375",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(718) 544-9033",
     lat: "40.7139988",
@@ -300,7 +300,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BRIGHT TEMPLE A.M.E. CHURCH/PROJECT F.I.L.L.",
     address: "812 Faile St, Bronx, New York, 10474",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Fri",
     tel: "(718) 542-7777",
     lat: "40.8171841",
@@ -309,7 +309,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. LUKES FOOD PANTRY",
     address: "623 E 138th St, Bronx, New York, 10454",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Fri",
     tel: "(718) 665-6677",
     lat: "40.80623415",
@@ -318,7 +318,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST MOBILE MARKET - QUEENSBRIDGE HOUSES",
     address: "10-25 41st Ave, Long Island City, New York, 11101",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Tue",
     tel: "(646) 412-0725",
     lat: "40.7614503",
@@ -327,7 +327,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "DISCIPLES OF GALILEE, INC",
     address: "725 Castle Hill Ave, Bronx, NY, 10473, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Fri",
     tel: "(347) 293-6166",
     lat: "40.821605000000005",
@@ -336,7 +336,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FELLOWSHIP COVENANT CHURCH",
     address: "720 Castle Hill Ave, Bronx, New York, 10473",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(718) 829-2116",
     lat: "40.8217144",
@@ -345,7 +345,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FRATERNITE NOTRE DAME, INC",
     address: "2290 1st Ave, New York, New York, 10035",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Thu",
     tel: "(212) 876-5855",
     lat: "40.7970257",
@@ -354,7 +354,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST - ST. MARY'S MOBILE MARKET",
     address: "595 Trinity Ave, Bronx, New York, 10455",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Tue",
     tel: "(646) 412-0725",
     lat: "40.8151927",
@@ -363,7 +363,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GIVE THEM TO EAT",
     address: "800 E 156th St, Bronx, New York, 10455",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Fri",
     tel: "(718) 993-8378",
     lat: "40.81750815",
@@ -372,7 +372,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ISAACS HOLMES FOOD PANTRY",
     address: "415 E 93rd St, New York, New York, 10128",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Wed",
     tel: "(212) 360-7620",
     lat: "40.78126345",
@@ -381,7 +381,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MACEDONIA CH. ASSEMBLY OF GOD-BREAD OF LIFE FOOD PANTRY",
     address: "340 E 106th St, New York, New York, 10029",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Fri",
     tel: "(212) 410-3412",
     lat: "40.7897257",
@@ -390,7 +390,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LITTLE SISTERS OF THE ASSUMPTION FAMILY HEALTH SERVICE",
     address: "333 E 115th St, New York, New York, 10029",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(646) 672-5200",
     lat: "40.7957969",
@@ -399,7 +399,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WAY OUT CHURCH MINISTRIES, INC (FP)",
     address: "520 E 148th St, Bronx, New York, 10455",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(718) 665-8069",
     lat: "40.81388905",
@@ -408,7 +408,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE RESOURCE CENTER FOR COMMUNITY DEVELOPMENT INC (FP)",
     address: "884 E 163rd St, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 402-1212",
     lat: "40.82094566666667",
@@ -417,7 +417,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. ANN'S CORNER OF HARM REDUCTION",
     address: "886 Westchester Ave, Bronx, NY, 10459, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:00 AM Mon",
     tel: "(718) 585-5544",
     lat: "40.82043885",
@@ -426,7 +426,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WORD OF LIFE CHRISTIAN FELLOWSHIP",
     address: "830 UNION AVENUE",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 4:00 PM",
     tel: "(718) 861-5678",
     lat: "39.33375065",
@@ -435,7 +435,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE URBAN OUTREACH CENTER OF NYC",
     address: "1745 1st Ave, New York, New York, 10128",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 5:30 PM Tue",
     tel: "(212) 288-6743",
     lat: "40.77982855",
@@ -444,7 +444,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ABRAHAM HOUSE, INC",
     address: "340 Willis Ave, Bronx, New York, 10454",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(718) 292-9321",
     lat: "40.81114825",
@@ -453,7 +453,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "RESURRECTION AND LIFE PENTECOSTAL CHURCH (FP)",
     address: "870 E 163rd St, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Tue",
     tel: "(929) 472-4201",
     lat: "40.8215051",
@@ -462,7 +462,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE LEGACY CENTER COMMUNITY DEVELOPMENT CORP",
     address: "71-02 Cypress Hills St, Ridgewood, NY, 11385, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Thu",
     tel: "(718) 456-4852",
     lat: "40.7021192",
@@ -471,7 +471,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LT WORKS FOOD PANTRY",
     address: "2347 Lafayette Ave, Bronx, New York, 10473",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     tel: "(347) 810-1201",
     lat: "40.82394673469388",
     lon: "-73.84452928571429",
@@ -479,7 +479,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HARVEST TO HAVEN",
     address: "210 Alexander Ave, Bronx, NY, 10454, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 665-5250",
     lat: "40.8092158",
@@ -488,7 +488,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. JEROME H.A.N.D.S. COMMUNITY CENTER",
     address: "330 E 138th St, Bronx, New York, 10454",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 402-7866",
     lat: "40.8097437",
@@ -497,7 +497,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WOODBINE",
     address: "585 Woodward Ave, Ridgewood, NY, 11385, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Mon",
     tel: "(646) 824-6064",
     lat: "40.7065232",
@@ -506,7 +506,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BREAD OF LIFE FOOD PANTRY",
     address: "1104 Elder Ave, Bronx, New York, 10472",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:30 PM Sat",
     tel: "(347) 235-3723",
     lat: "40.8263204",
@@ -515,7 +515,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GIVE BY GRACE WHAT BY GRACE YOU HAVE RECEIVED INC (FP)",
     address: "936 E 165th St, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Fri",
     tel: "(718) 710-9339",
     lat: "40.823684799999995",
@@ -524,7 +524,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BRONX TEMPLE SEVENTH DAY ADVENTIST CHURCH",
     address: "495 Willis Ave, Bronx, New York, 10455",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:30 AM Mon",
     tel: "(718) 842-4504",
     lat: "40.8149924",
@@ -533,7 +533,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHAMBERS MEMORIAL BAPTIST CHURCH/LOVE OFFERING",
     address: "219 E 123rd St, New York, NY, 10035, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(347) 600-9820",
     lat: "40.802251408163265",
@@ -542,7 +542,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COMMUNITY ALLIANCE INITIATIVE",
     address: "60-85 Myrtle Ave, Ridgewood, New York, 11385",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Fri",
     tel: "(718) 305-4888",
     lat: "40.7009403",
@@ -551,7 +551,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY MANHATTAN CITADEL",
     address: "175 E 125th St, New York, New York, 10035",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(212) 860-3200",
     lat: "40.804033454545454",
@@ -560,7 +560,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SPANISH SEVENTH DAY ADVENTIST CHURCH FOOD PANTRY",
     address: "1038 Prospect Ave, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:30 AM Thu",
     tel: "(718) 991-7362",
     lat: "40.82466225",
@@ -569,7 +569,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CCCS BRONX FOOD PANTRY",
     address: "402 E 152nd St, Bronx, New York, 10455",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Wed",
     tel: "(718) 292-9090",
     lat: "40.81795305",
@@ -578,7 +578,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PROJECT L.E.A.D.",
     address: "85-12 126th St, Kew Gardens, New York, 11415",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:30 AM Sun",
     tel: "(718) 495-6210",
     lat: "40.7146446",
@@ -587,7 +587,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LOYAL BAPTIST CHURCH",
     address: "881 E 167th St, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Thu",
     tel: "(718) 328-3512",
     lat: "40.826172850000006",
@@ -596,7 +596,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. CECILIA'S PARISH SERVICES",
     address: "125 E 105th St, New York, New York, 10029",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(212) 348-0488",
     lat: "40.791919",
@@ -605,7 +605,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "AGAPE CHRISTIAN CENTER",
     address: "59-02 Summerfield St, Ridgewood, New York, 11385",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(718) 635-0674",
     lat: "40.6992109",
@@ -614,7 +614,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "TEMPLE SHAARAY TEFILA",
     address: "250 E 79th St, New York, New York, 10075",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:15 AM Wed",
     tel: "(212) 535-8008",
     lat: "40.773249899999996",
@@ -623,7 +623,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BOOM! HEALTH",
     address: "3144 3rd Ave, Bronx, New York, 10451",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(718) 295-5960",
     lat: "40.8222238",
@@ -632,7 +632,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FRIENDLY HANDS MINISTRY INC",
     address: "115 E 125th St, New York, NY, 10035, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(646) 370-3978",
     lat: "40.8048264",
@@ -641,7 +641,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HOLY CHILD JESUS FOOD PANTRY",
     address: "112-06 86th Ave, Richmond Hill, NY, 11418, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Mon",
     tel: "(718) 847-1860",
     lat: "40.698874",
@@ -650,7 +650,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ADMIRABLE CHRIST MINISTRIES FOOD PANTRY",
     address: "1201 Southern Blvd, Bronx, NY, 10459, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Fri",
     tel: "(570) 856-7065",
     lat: "40.828649600000006",
@@ -659,7 +659,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY BRONX CITADEL",
     address: "425 E 159th St, Bronx, New York, 10451",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Mon",
     tel: "(718) 665-8472",
     lat: "40.822746550000005",
@@ -668,7 +668,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ANOTHER CHOICE YOUTH AND FAMILY OUTREACH INC",
     address: "1765 Madison Ave, New York, New York, 10029",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Fri",
     tel: "(212) 369-6643",
     lat: "40.799722",
@@ -677,7 +677,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "EMANUEL PENTECOSTAL FAITH CHURCH",
     address: "1310 Elder Ave, Bronx, New York, 10472",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Wed",
     tel: "(718) 842-4092",
     lat: "40.83162765",
@@ -686,7 +686,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MORRISANIA REVITALIZATION CORP INC",
     address: "576B E 165th St, Bronx, NY, 10456, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(718) 589-7858",
     lat: "40.8267017",
@@ -695,7 +695,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GOD BLESS YOU ALL INC (QUEENS)",
     address: "95-31 Jamaica Ave, Woodhaven, New York, 11421",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(347) 349-2720",
     lat: "40.6946009",
@@ -704,7 +704,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BETH HARK CHRISTIAN COUNSELING CENTER",
     address: "1832 Madison Ave, New York, New York, 10035",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Tue",
     tel: "(212) 860-1523",
     lat: "40.80153558139535",
@@ -713,7 +713,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LIFELINE GROCERY",
     address: "49-09 5TH STREET.",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(631) 316-5086",
     lat: "42.2314335",
@@ -722,7 +722,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NEW YORK COMMON PANTRY",
     address: "8 E 109th St, New York, New York, 10029",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:30 PM",
     tel: "(917) 720-9700",
     lat: "40.7957739",
@@ -731,7 +731,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NEW YORK COMMON PANTRY - BRONX",
     address: "1290 Hoe Ave, Bronx, New York, 10459",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:30 PM",
     tel: "(917) 423-2701",
     lat: "40.8308354",
@@ -740,7 +740,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WORLD RESTORATION CENTER, INC (FP)",
     address: "488 E 164th St, Bronx, NY, 10456, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(718) 971-1764",
     lat: "40.826026551020405",
@@ -749,7 +749,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MANNA OF LIFE MINISTRIES, INC",
     address: "1101 Boston Rd, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Wed",
     tel: "(347) 577-5788",
     lat: "40.82754625",
@@ -758,7 +758,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHURCH OF THE ATONEMENT FOOD PANTRY",
     address: "1344 Beach Ave, Bronx, New York, 10472",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(718) 828-6078",
     lat: "40.83337965",
@@ -767,7 +767,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST - MELROSE MOBILE MARKET",
     address: "286 E 156th St, Bronx, New York, 10451",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Wed",
     tel: "(646) 412-0725",
     lat: "40.82317279591837",
@@ -776,7 +776,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ELOHIM COMMUNITY DEVELOPMENT & OUTREACH INC",
     address: "87-47 111th St, Richmond Hill, New York, 11418",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:00 AM Fri",
     tel: "(917) 916-3066",
     lat: "40.69570535",
@@ -785,7 +785,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NEW CONVENANT COMMUNITY DEVELOPMENT CORP",
     address: "1175 Boston Rd, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Tue",
     tel: "(718) 328-6072",
     lat: "40.8289477",
@@ -794,7 +794,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PATHHSEO INC",
     address: "1357 Southern Blvd, Bronx, NY, 10459, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(917) 471-9188",
     lat: "40.83148222990182",
@@ -803,7 +803,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CALVARY'S MISSION",
     address: "102-16 89th Ave, Richmond Hill, New York, 11418",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(718) 849-0311",
     lat: "40.6989584",
@@ -812,7 +812,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. PAUL'S LUTHERAN CHURCH",
     address: "1891 Mcgraw Ave, Bronx, New York, 10462",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Fri",
     tel: "(718) 822-4535",
     lat: "40.834420785714286",
@@ -821,7 +821,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "RIVER FUND",
     address: "89-11 Lefferts Blvd, Richmond Hill, New York, 11418",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(718) 441-1125",
     lat: "40.6969949",
@@ -830,7 +830,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "UNION GROVE BAPTIST CHURCH",
     address: "1488 Hoe Ave, Bronx, New York, 10460",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(347) 590-3881",
     lat: "40.83289365",
@@ -839,7 +839,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ROMAN CATHOLIC CHURCH OF ST HELENA (FP)",
     address: "1315 Olmstead Ave, Bronx, NY, 10462, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(718) 892-3232",
     lat: "40.83425165",
@@ -848,7 +848,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PARKCHESTER BAPTIST CHURCH (FP)",
     address: "2021 Benedict Ave, Bronx, New York, 10462",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(718) 823-8124",
     lat: "40.8346414",
@@ -857,7 +857,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MUNA SOCIAL SERVICES PARKCHESTER ISLAMIC CENTER (FPH)",
     address: "1375 Virginia Ave, Bronx, NY, 10462, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Thu",
     tel: "(917) 267-8136",
     lat: "40.83530675",
@@ -866,7 +866,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ANTIOCH OUTREACH MINISTRIES",
     address: "41 W 124th St, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:30 AM Sat",
     tel: "(212) 534-5715",
     lat: "40.806523",
@@ -875,7 +875,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FIRST UNITED METHODIST CHURCH OF JAMAICA (FP)",
     address: "162-10 Highland Ave, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:30 AM Mon",
     tel: "(718) 739-2269",
     lat: "40.70972225",
@@ -884,7 +884,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PROJECT CREATE - ANTHONY HOUSE",
     address: "73 Lenox Ave, New York, NY, 10026, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(212) 663-1596",
     lat: "40.800671",
@@ -893,7 +893,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MAKE THE ROAD NEW YORK (BK)",
     address: "301 Grove St, Brooklyn, NY, 11237, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Fri",
     tel: "(718) 418-7690",
     lat: "40.698458",
@@ -902,7 +902,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MT. OLIVET BAPTIST CHURCH COMMUNITY MEAL PROGRAM",
     address: "201 Lenox Ave, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:30 AM Tue",
     tel: "(212) 864-1155",
     lat: "40.8049411",
@@ -911,7 +911,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CCCS - KENNEDY CENTER FOOD PANTRY",
     address: "34 W 134th St, New York, New York, 10037",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(212) 862-6401",
     lat: "40.8123735",
@@ -920,7 +920,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GREENPOINT REFORMED CHURCH FOOD PANTRY (FP)",
     address: "136 Milton St, Brooklyn, New York, 11222",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Thu",
     tel: "(517) 643-2998",
     lat: "40.7292081",
@@ -929,7 +929,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ALL MY CHILDREN FP",
     address: "175 - 44 MAYFIELD RD, QUEENS, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(718) 825-2566",
     lat: "40.7167659",
@@ -938,7 +938,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "JAMAICA HISPANIC SEVENTH DAY ADVENTIST CHURCH",
     address: "88-28 161st St, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Sun",
     tel: "(718) 736-5291",
     lat: "40.707322149999996",
@@ -947,7 +947,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. ANTHONY'S CHURCH",
     address: "1750 Mansion St, Bronx, New York, 10460",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:00 AM Sat",
     tel: "(718) 931-4040",
     lat: "40.837902",
@@ -956,7 +956,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CCC NEW YORK PARISH FOOD PANTRY OUTREACH PROGRAM",
     address: "1380 Jefferson Ave, Brooklyn, New York, 11237",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(718) 366-8065",
     lat: "40.6945531",
@@ -965,7 +965,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MASJID MASJID OMAR ABDEL AZIZ",
     address: "88-29 161st St, Jamaica, NY, 11432, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:00 PM Wed",
     tel: "(718) 541-8485",
     lat: "40.70747475",
@@ -974,7 +974,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "INSPIRATIONAL GOSPEL ASSEMBLY",
     address: "1211 Brook Ave, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Sat",
     tel: "(347) 758-6447",
     lat: "40.8314663",
@@ -983,7 +983,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. MARK THE EVANGELIST CHURCH",
     address: "65 W 138th St, New York, New York, 10037",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(212) 281-4931",
     lat: "40.81588185",
@@ -992,7 +992,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "JAMAICA SEVENTH DAY ADVENTIST CHURCH (FP)",
     address: "88-28 163rd St, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Sun",
     tel: "(718) 658-9784",
     lat: "40.7085993",
@@ -1001,7 +1001,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "REDEEMED CHRISTIAN CHURCH OF GOD",
     address: "1005 Morris Ave, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(718) 293-8996",
     lat: "40.829002361111115",
@@ -1010,7 +1010,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "VINEYARD INTERNATIONAL CHRISTIAN MINISTRIES",
     address: "1140 Teller Ave, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(718) 538-9211",
     lat: "40.8306747",
@@ -1019,7 +1019,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HARLEM DOWLING WEST SIDE CENTER/SPECIALIZED SERVICES",
     address: "2139 Adam Clayton Powell Jr Blvd, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Fri",
     tel: "(212) 749-3656",
     lat: "40.8099882",
@@ -1028,7 +1028,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WEST HARLEM GROUP ASSISTANCE, INC",
     address: "625 Lenox Ave, New York, New York, 10030",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(212) 690-7900",
     lat: "40.8182373",
@@ -1037,7 +1037,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHRIST CHURCH UNITED METHODIST",
     address: "524 Park Ave, New York, NY, 10065, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:30 PM Sun",
     tel: "(212) 838-3036",
     lat: "40.763879450000005",
@@ -1046,7 +1046,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY JAMAICA CITADEL CORPS",
     address: "90 E 161st St, Bronx, NY, 10451, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Mon",
     tel: "(718) 297-4860",
     lat: "40.8281625479121",
@@ -1055,7 +1055,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FOOD BANK FOR NEW YORK CITY ",
     address: "252 W 116th St, New York, New York, 10026",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(212) 566-7855,6104",
     lat: "40.80393265",
@@ -1064,7 +1064,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ZEINA LORRAINE INC",
     address: "203 W 133rd St, New York, New York, 10030",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(646) 355-3880",
     lat: "40.8142455",
@@ -1073,7 +1073,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. PETER'S LOVE PANTRY",
     address: "2500 Westchester Ave, Bronx, New York, 10461",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(718) 931-9270",
     lat: "40.8387111",
@@ -1082,7 +1082,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. PETER'S CHURCH BREAKFAST PROGRAM",
     address: "619 Lexington Ave, New York, New York, 10022",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:15 AM Tue",
     tel: "(212) 935-2200",
     lat: "40.759228102040815",
@@ -1091,7 +1091,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COMPASSION HOUSE COMMUNITY DEVELOPMENT CORPORATION",
     address: "43 George St, Brooklyn, NY, 11206, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Thu",
     tel: "(718) 386-8151",
     lat: "40.701465150000004",
@@ -1100,7 +1100,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FIRST PRESBYTERIAN CHURCH OF JAMAICA",
     address: "89-60 164th St, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(718) 526-4775",
     lat: "40.705774399999996",
@@ -1109,7 +1109,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HOLY TABERNACLE CHURCH INC.",
     address: "3780 3rd Ave, Bronx, New York, 10456",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:30 PM Tue",
     tel: "(718) 293-9862",
     lat: "40.8160422",
@@ -1118,7 +1118,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "YMCA COMMUNITY MARKET - NORTH BROOKLYN YMCA",
     address: "570 Jamaica Ave, Brooklyn, New York, 11208",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Tue",
     tel: "(212) 912-2230",
     lat: "40.6849854",
@@ -1127,7 +1127,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "IRIS HOUSE",
     address: "2348 Adam Clayton Powell Jr Blvd, New York, New York, 10030",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Tue",
     tel: "(646) 548-0100",
     lat: "40.81711975",
@@ -1136,7 +1136,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "AIDS CENTER OF QUEENS COUNTY (JAMAICA)",
     address: "161-21 Jamaica Ave, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:30 AM Thu",
     tel: "(718) 896-2500",
     lat: "40.7043673",
@@ -1145,7 +1145,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "TABERNACLE OF PRAYER",
     address: "90-07 Merrick Blvd, Jamaica, New York, 11432",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 657-4210",
     lat: "40.7068208",
@@ -1154,7 +1154,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GRACE EPISCOPAL CHURCH (BX)",
     address: "1909 Vyse Ave, Bronx, New York, 10460",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 1:30 PM",
     tel: "(718) 542-1946",
     lat: "40.8403342",
@@ -1163,7 +1163,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SOUTHERN BAPTIST CHURCH",
     address: "12 W 108th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(212) 663-6549",
     lat: "40.79953085",
@@ -1172,7 +1172,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. THOMAS AQUINAS FOOD PANTRY (FP)",
     address: "1900 Crotona Pkwy, Bronx, New York, 10460",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(718) 589-5235",
     lat: "40.84070595",
@@ -1181,7 +1181,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BLESSED SACRAMENT CHURCH (BKLYN)",
     address: "198 Euclid Ave, Brooklyn, NY, 11208, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Wed",
     tel: "(718) 827-1200",
     lat: "40.68377497297298",
@@ -1190,7 +1190,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE OZONE PARK PANTRY",
     address: "83-10 Rockaway Blvd, Ozone Park, New York, 11416",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 2:00 PM",
     tel: "(646) 851-0885",
     lat: "40.6815281",
@@ -1199,7 +1199,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GOD BLESS YOU ALL INC (BRONX) (FP)",
     address: "1926 Crotona Pkwy, Bronx, New York, 10460",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(347) 962-6047",
     lat: "40.84158239285714",
@@ -1208,7 +1208,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CROSSROADS COMMUNITY SERVICES INC",
     address: "108 E 51st St, New York, NY, 10022, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:30 AM Sun",
     tel: "(212) 378-0229",
     lat: "40.7573397",
@@ -1217,7 +1217,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. CHARLES BORROMEO CHURCH",
     address: "211 W 141st St, New York, New York, 10030",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(212) 281-2100",
     lat: "40.81960585",
@@ -1226,7 +1226,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COALITION FOR THE HOMELESS",
     address: "108 E 51st St, New York, NY, 10022, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 5:30 PM Sat",
     tel: "(212) 776-2002",
     lat: "40.7573397",
@@ -1235,7 +1235,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SAGE CENTER HARLEM (LOVE WINS FOOD PANTRY)",
     address: "220 W 143rd St, New York, NY, 10030, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:00 PM Wed",
     tel: "(646) 660-8951",
     lat: "40.8206553",
@@ -1244,7 +1244,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MOMENTUM PROJECT @ CHURCH OF THE GOD OF PROPHECY",
     address: "85 E 165th St, Bronx, New York, 10452",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(718) 292-7718",
     lat: "40.8316787",
@@ -1253,7 +1253,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "TRINITY HUMAN SERVICE CORPORATION",
     address: "153 Johnson Ave, Brooklyn, NY, 11206, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(718) 388-3176",
     lat: "40.70662872222223",
@@ -1262,7 +1262,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WE ARE NOT AFRAID COMMUNITY RESOURCE CENTER (FP)",
     address: "203 W 146th St, New York, NY, 10039, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Thu",
     tel: "(646) 421-4748",
     lat: "40.822771900000006",
@@ -1271,7 +1271,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SAGE CENTER BRONX (LOVE WINS FOOD PANTRY)",
     address: "1784 Prospect Ave, Bronx, NY, 10457, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Thu",
     tel: "(718) 960-3339",
     lat: "40.84148614285714",
@@ -1280,7 +1280,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WELLNESS RISING (RISEBORO COMMUNITY PARTNERSHIP) (FP)",
     address: "518 Bushwick Ave, Brooklyn, NY, 11206, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Tue",
     tel: "(917) 810-3156",
     lat: "40.69973912903226",
@@ -1289,7 +1289,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE BIBLE CHURCH OF CHRIST (80015)",
     address: "1358 Morris Ave, Bronx, NY, 10456, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Sun",
     tel: "(718) 293-1928",
     lat: "40.837168399999996",
@@ -1298,7 +1298,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "METRO MINISTRIES INTERNATIONAL",
     address: "871 Bushwick Ave, Brooklyn, New York, 11221",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:30 AM Sat",
     tel: "(718) 453-3352",
     lat: "40.6940484",
@@ -1307,7 +1307,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. JOSEPH OF THE HOLY FAMILY FOOD PANTRY (FP)",
     address: "405 W 125th St, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Sat",
     tel: "(646) 398-9151",
     lat: "40.81183155",
@@ -1316,7 +1316,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GETHSEMANE BAPTIST CHURCH (FP)",
     address: "771 FAIRMOUNT PLACE",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Thu",
     tel: "(347) 948-0772",
     lat: "40.84259962162162",
@@ -1325,7 +1325,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHURCH OF NOTRE DAME",
     address: "405 W 114th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Tue",
     tel: "(212) 866-1500",
     lat: "40.80511055",
@@ -1334,7 +1334,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FATHER CREAVIN'S FOOD PANTRY",
     address: "276 W 151st St, New York, New York, 10039",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(212) 281-2100",
     lat: "40.82586705",
@@ -1343,7 +1343,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THE SALVATION ARMY BUSHWICK CORPS",
     address: "1151 Bushwick Ave, Brooklyn, New York, 11221",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Mon",
     tel: "(718) 455-4102",
     lat: "40.6892549",
@@ -1352,7 +1352,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "THURSTON MEMORIAL OUTREACH MINISTRIES",
     address: "1243 Bushwick Ave, Brooklyn, New York, 11221",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Fri",
     tel: "(718) 452-3646",
     lat: "40.6878657",
@@ -1361,7 +1361,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CATHEDRAL COMMUNITY CARES",
     address: "1047 Amsterdam Ave, New York, NY, 10025, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Thu",
     tel: "(347) 376-2898",
     lat: "40.80376595",
@@ -1370,7 +1370,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CATHEDRAL OF ST. JOHN THE DIVINE",
     address: "1047 Amsterdam Ave, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sun",
     tel: "(212) 316-7640",
     lat: "40.80376595",
@@ -1379,7 +1379,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "AFRICAN SERVICES COMMITTEE (FP)",
     address: "429 W 127th St, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Mon",
     tel: "(212) 222-3882,101",
     lat: "40.81343305",
@@ -1388,7 +1388,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "PRESBYTERIAN CHURCH OF THE CROSSROADS",
     address: "133 Elton St, Brooklyn, New York, 11208",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Wed",
     tel: "(646) 322-3992",
     lat: "40.6805316",
@@ -1397,7 +1397,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BRONX SEVENTH DAY ADVENTIST CHURCH (FP)",
     address: "1695 Washington Ave, Bronx, New York, 10457",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Thu",
     tel: "(646) 353-8926",
     lat: "40.8422137",
@@ -1406,7 +1406,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WHEDCO - FOOD PANTRY",
     address: "50 E 168th St, Bronx, New York, 10452",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Wed",
     tel: "(718) 839-1100",
     lat: "40.8363459",
@@ -1415,7 +1415,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "HOLY NAME OF JESUS - ST. GREGORY THE GREAT (FP)",
     address: "202 AMSTERDAM AVENUE, NEW YORK, NY 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(212) 749-0276",
     lat: "40.77683980434783",
@@ -1424,7 +1424,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COLLECTIVE FOCUS FOOD JUSTICE PANTRY PROGRAM",
     address: "1046 Broadway, Brooklyn, NY, 11221, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Tue",
     tel: "(724) 584-8501",
     lat: "40.695296875",
@@ -1433,7 +1433,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MUNA SOCIAL SERVICES BAITUN NOOR MASJID (FPH)",
     address: "88-19 Liberty Ave, Ozone Park, NY, 11417, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Fri",
     tel: "(917) 267-8136",
     lat: "40.6801434",
@@ -1442,7 +1442,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITYMEALS ON WHEELS",
     address: "355 Lexington Ave, New York, NY, 10017, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:00 AM Mon",
     tel: "(718) 599-2080",
     lat: "40.75015225",
@@ -1451,7 +1451,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHURCH OF THE ANNUNCIATION",
     address: "88 Convent Ave, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Tue",
     tel: "(212) 234-1919",
     lat: "40.816272600000005",
@@ -1460,7 +1460,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. MICHAEL'S CHURCH",
     address: "225 W 99th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(212) 222-2700",
     lat: "40.79633975",
@@ -1469,7 +1469,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "OPEN DOOR FAMILY LIFE CENTER INC",
     address: "999 Greene Ave, Brooklyn, New York, 11221",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:30 AM Sat",
     tel: "(718) 455-3545",
     lat: "40.6913995",
@@ -1478,7 +1478,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FAITH CENTER FOR HUMAN SERVICES, INC",
     address: "1014 Gates Ave, Brooklyn, New York, 11221",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Sat",
     tel: "(646) 431-9729",
     lat: "40.689178150000004",
@@ -1487,7 +1487,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FAMILY SERVICE NETWORK OF N.Y. INC",
     address: "1420 Bushwick Ave, Brooklyn, New York, 11207",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(718) 455-6010,6151",
     lat: "40.6840366",
@@ -1496,7 +1496,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MACEDONIA AME CHURCH",
     address: "106-16 Guy R Brewer Blvd, Jamaica, New York, 11433",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 7:00 AM Mon",
     tel: "(718) 353-5870",
     lat: "40.69925295",
@@ -1505,7 +1505,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NEW COVENANT COMMUNITY CORP (FP) (NCCDC ELG PANTRY) ",
     address: "1240 Edward L Grant Hwy, Bronx, NY, 10452, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(718) 328-6072",
     lat: "40.83825603571428",
@@ -1514,7 +1514,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WOODYCREST UNITED METHODIST CHURCH",
     address: "89 W 166th St, Bronx, New York, 10452",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Wed",
     tel: "(718) 538-7500",
     lat: "40.8353019",
@@ -1523,7 +1523,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ZION TABERNACLE F.B.H. CHURCH",
     address: "105-01 107 AV",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Tue",
     tel: "(718) 717-9993",
     lat: "29.0398172",
@@ -1532,7 +1532,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ADVENT LUTHERAN CHURCH",
     address: "2504 Broadway, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Sat",
     tel: "(212) 665-2504",
     lat: "40.792697149999995",
@@ -1541,7 +1541,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CONVENT AVENUE BAPTIST CHURCH",
     address: "425 W 144th St, New York, New York, 10031",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(646) 698-5102",
     lat: "40.823920900000005",
@@ -1550,7 +1550,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MUNA SOCIAL SERVICE INC (FPH)",
     address: "1033 Glenmore Ave, Brooklyn, New York, 11208",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:00 PM Wed",
     tel: "(917) 267-8136",
     lat: "40.676807636363634",
@@ -1559,7 +1559,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. JOHN'S BREAD & LIFE FOOD PANTRY",
     address: "795 Lexington Ave, New York, New York, 10065",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Mon",
     tel: "(718) 574-0058",
     lat: "40.7637974",
@@ -1568,7 +1568,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "BROADWAY COMMUNITY",
     address: "601 W 114th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Mon",
     tel: "(212) 864-6100",
     lat: "40.8069051",
@@ -1577,7 +1577,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SOUP KITCHEN/COMMUNITY LUNCH",
     address: "601 W 114th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:30 PM Fri",
     tel: "(212) 854-6310",
     lat: "40.8069051",
@@ -1586,7 +1586,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ON THE GO RELIEF",
     address: "2832 Fulton St, Brooklyn, NY, 11207, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Fri",
     tel: "(347) 946-2914",
     lat: "40.6781302",
@@ -1595,7 +1595,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COMMUNITY IMPACT",
     address: "616 W 114th St, New York, New York, 10025",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Mon",
     tel: "(212) 854-6310",
     lat: "40.806962",
@@ -1604,7 +1604,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CONGREGATION B'NAI JESHURUN",
     address: "257 W 88th St, New York, New York, 10024",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Thu",
     tel: "(212) 787-7600",
     lat: "40.790087549999996",
@@ -1613,7 +1613,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CHRIST APOSTOLIC CHURCH OF AMERICA, INC (FP)",
     address: "108-02 Sutphin Blvd, Jamaica, New York, 11435",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Sat",
     tel: "(718) 658-8981",
     lat: "40.7042987",
@@ -1622,7 +1622,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "UPPER MANHATTAN MENTAL HEALTH CENTER",
     address: "1727 Amsterdam Ave, New York, New York, 10031",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Tue",
     tel: "(212) 694-9200",
     lat: "40.826138156249996",
@@ -1631,7 +1631,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "WESTSIDE CAMPAIGN AGAINST HUNGER",
     address: "263 W 86th St, New York, New York, 10024",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(212) 362-3662",
     lat: "40.788938099999996",
@@ -1640,7 +1640,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "RIVERSIDE CHURCH FOOD PANTRY (FP)",
     address: "91 Claremont Ave, New York, New York, 10027",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(212) 870-6733",
     lat: "40.8119559",
@@ -1649,7 +1649,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "SOUTHSIDE UNITED H.D.F.C., INC - LOS SURES",
     address: "145 S 3rd St, Brooklyn, New York, 11211",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Tue",
     tel: "(718) 599-1940",
     lat: "40.71235752631579",
@@ -1658,7 +1658,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MORNING STAR FULL GOSPEL ASSEMBLY (FP)",
     address: "464 E Tremont Ave, Bronx, NY, 10457, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Wed",
     tel: "(718) 294-6020",
     lat: "40.8469562",
@@ -1667,7 +1667,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ISAIAH'S TEMPLE OF MT. HOPE",
     address: "862 Glenmore Ave, Brooklyn, New York, 11208",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 2:00 PM Tue",
     tel: "(718) 277-4038",
     lat: "40.6757053",
@@ -1676,7 +1676,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. IGNATIUS EPISCOPAL CHURCH",
     address: "552 W End Ave, New York, New York, 10024",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:45 PM Sat",
     tel: "(212) 580-3326",
     lat: "40.789269950000005",
@@ -1685,7 +1685,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "LAS MARAVILLAS DEL EXODO",
     address: "302 Elton St, Brooklyn, New York, 11208",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Wed",
     tel: "(347) 691-8340",
     lat: "40.6758094",
@@ -1694,7 +1694,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GRAND CENTRAL NEIGHBORHOOD SOCIAL SERVICE CORP.",
     address: "120 E 32nd St, New York, NY, 10016, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Closes 1:30 PM",
     tel: "(212) 883-0680",
     lat: "40.7453045",
@@ -1703,7 +1703,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MANHATTAN FULLFILLMENT CENTER (MET COUNCIL)",
     address: "171 Lexington Ave, New York, NY, 10016, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 10:00 AM Tue",
     tel: "(917) 841-1250",
     lat: "40.74413305",
@@ -1712,7 +1712,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST - BED-STUY MOBILE MARKET",
     address: "736 Park Ave, Brooklyn, NY, 11206, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Wed",
     tel: "(646) 412-0725",
     lat: "40.6977462",
@@ -1721,7 +1721,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. TERESA OF AVILA COMMUNITY SERVICES",
     address: "109-24 130th St, South Ozone Park, NY, 11420, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(718) 529-3587",
     lat: "40.6656235",
@@ -1730,7 +1730,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "CITY HARVEST MOBILE MARKET - PRINCE HALL",
     address: "454 W 155th St, New York, New York, 10032",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:30 AM Thu",
     tel: "(646) 412-0725",
     lat: "40.83086045",
@@ -1739,7 +1739,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MUNA SOCIAL SERVICES MASJID AR-RAYYAN (FPH)",
     address: "196-43 Foothill Ave, Hollis, NY, 11423, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Thu",
     tel: "(917) 267-8136",
     lat: "40.71880065",
@@ -1748,7 +1748,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "TRANSFIGURATION CHURCH",
     address: "280 Marcy Ave, Brooklyn, New York, 11211",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 9:00 AM Mon",
     tel: "(718) 782-8181",
     lat: "40.70501",
@@ -1757,7 +1757,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MUNA SOCIAL SERVICE SOUTH JAMAICA (FPH)",
     address: "164-38 108th Ave, Jamaica, NY, 11453, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 4:00 PM Mon",
     tel: "(917) 267-8136",
     lat: "40.6955123",
@@ -1766,7 +1766,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "MOSAIC BEACON COMMUNITY CENTER (FP)",
     address: "1257 Ogden Ave, Bronx, New York, 10452",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 3:00 PM Fri",
     tel: "(917) 962-9955",
     lat: "40.83971525",
@@ -1775,7 +1775,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "FAMILY INTEGRATION MINISTRY FOOD PANTRY",
     address: "1875 Amsterdam Ave, New York, New York, 10031",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 12:00 PM Thu",
     tel: "(347) 459-4445",
     lat: "40.829976200000004",
@@ -1784,7 +1784,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "REVELACION DIVINA FOOD PANTRY (FP)",
     address: "240 E 175th St, Bronx, NY, 10457, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 5:00 PM Mon",
     lat: "40.8466237",
     lon: "-73.9061428",
@@ -1792,7 +1792,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "GUTTMAN COMMUNITY COLLEGE CAMPUS PANTRY",
     address: "50 W 40th St, New York, New York, 10018",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 8:00 AM Mon",
     tel: "(646) 313-8857",
     lat: "40.752949",
@@ -1801,7 +1801,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "COMMUNITY CHURCH OF CHRIST FOOD PANTRY",
     address: "167-04 108th Ave, Jamaica, NY, 11433, USA",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Wed",
     tel: "(718) 523-2612",
     lat: "40.6955123",
@@ -1810,7 +1810,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "NATIONAL COUNCIL OF JEWISH WOMEN",
     address: "241 W 72nd St, New York, New York, 10023",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:30 AM Sun",
     tel: "(212) 799-7205",
     lat: "40.7794523",
@@ -1819,7 +1819,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ST. PAUL PENTECOSTAL CHURCH",
     address: "133 Thomas S Boyland St, Brooklyn, New York, 11233",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 11:00 AM Sat",
     tel: "(917) 604-9644",
     lat: "40.6803757",
@@ -1828,7 +1828,7 @@ export const FOOD_LOCATIONS = [
   {
     title: "ASH-SHIFAA INC FP",
     address: "2269 Crotona Ave, Bronx, New York, 10457",
-    facilityType: "Soup Kitchen",
+    description: "Soup Kitchen",
     hours: "Opens 1:00 PM Mon",
     tel: "(646) 353-0859",
     lat: "40.8516297",

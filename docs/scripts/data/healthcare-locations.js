@@ -20,6 +20,26 @@ export const HEALTHCARE_LOCATIONS = [
       "Mental Health, Social Services, Dietitian/Nutrition, Financial Assistance, Immunizations, Physical Therapy",
   },
   {
+    title: "BRC Project Rescue Drop-In Center",
+    address: "315/317 Bowery, New York, NY 10003",
+    hours: "24 hours, 7 days a week",
+    tel: "(212) 533-5656 or (212) 533-2037",
+    lat: "40.7252412",
+    lon: "-73.9918165",
+    description:
+      "Admissions and services 24 hours; 7 days a week. Services include: 24-Hour Drop-In Center, Counseling, Psych. Evaluations and Treatment, Referrals, Substance Abuse Counseling, Medical Services, Housing Assistance, Dual Focus and MICA, Court Referrals, Non-Acute and Serious Medical Problems.",
+  },
+  {
+    title: "Catholic Charities of The Archdiocese of New York",
+    address: "1011 First Avenue, New York, NY 10022",
+    hours: "24 hours, 7 days a week",
+    tel: "(212) 371-1000 ext. 2117 or 2187",
+    lat: "40.7574817",
+    lon: "-73.9640255",
+    description:
+      "Provides child abuse and neglect prevention, foster care, group residences for teens, family reunification, adoption, family day care, juvenile justice services, a privately funded Maternity Services and Adoption Program and a Post Adoption Services Program. Also provides a shelter program for the homeless, and residential and respite services for individuals diagnosed with developmental disabilities.",
+  },
+  {
     title: "Planned Parenthood",
     address: "26 Bleecker St. New York, NY 10012",
     hours: "Mon-Thu 8:00 AM - 6:30 PM, Fri-Sat 8:00 AM - 5:30 PM",
@@ -27,6 +47,33 @@ export const HEALTHCARE_LOCATIONS = [
     lat: "40.7255007",
     lon: "-73.9937026",
     description: "Obstetricians & Gynecologists, Reproductive Health Services",
+  },
+  {
+    title: "DHS Men Intake Center",
+    address: "400-430 East 30th Street (at 1st Avenue), Manhattan",
+    hours: "24 hours, 7 days a week",
+    tel: "",
+    lat: "40.7410068",
+    lon: "-73.9752253",
+    description: "Department of Homeless Services. Intake Facility for Men",
+  },
+  {
+    title: "DHS Franklin Women's Shelter",
+    address: "1122 Franklin Avenue, Bronx, NY, 10456",
+    hours: "24 hours, 7 days a week",
+    tel: "(929) 281-2330",
+    lat: "40.8281755",
+    lon: "-73.9057433",
+    description: "Department of Homeless Services. Intake Facility for Women",
+  },
+  {
+    title: "AFIC Intake Facility",
+    address: "400-430 East 30th Street (corner of 1st Avenue) New York, NY 10016",
+    hours: "24 hours, 7 days a week",
+    tel: "",
+    lat: "40.741079",
+    lon: "-73.974809",
+    description: "Adult Family Intake Center (AFIC)",
   },
   {
     title: "ECHO Free Clinic",
@@ -37,6 +84,45 @@ export const HEALTHCARE_LOCATIONS = [
     lon: "-73.90900101441369",
     description:
       "Primary care, women's health and gynecology, men's health, disease prevention and screening, vaccinations",
+  },
+  {
+    title: "Covenant House Crisis Shelter",
+    address: "460 West 41st Street, New York, NY 10036",
+    hours: "24 hours, 7 days a week",
+    tel: "(212) 613-0300",
+    lat: "40.759792", // Latitude
+    lon: "-73.996866", // Longitude
+    description:
+      "Comprehensive services for young adults under 21 transitioning from homelessness to self-sufficiency.",
+  },
+  {
+    title: "Bond St. Drop-In Center",
+    address: "39-41 Bond St. Brooklyn, NY",
+    hours: "24 hours, 7 days a week",
+    tel: "(718) 935-0439",
+    lat: "40.6897706",
+    lon: "-73.9829055",
+    description:
+      "Homeless services, safe environment, 18 years and older, caase management services, transitional housing, comprehensive services",
+  },
+  {
+    title: "Bailey House Inc.",
+    address: "275 Seventh Avenue, 12th Floor, New York, NY 10001",
+    hours: "24 hours, 7 days a week",
+    tel: "(212) 633-2500",
+    lat: "40.7456493",
+    lon: "-73.9942855",
+    description:
+      "Provides temporary through permanent emergency housing for people with HIV and AIDS and their families, who have been evicted from their homes or hospitals. Provides case management, health monitoring and education, substance abuse counseling, bereavement support, vocational and educational training, support groups, and leisure activities.",
+  },
+  {
+    title: "PATH DHS Assessment Shelter",
+    address: "151 East 151 Street, Bronx, NY, 10451",
+    hours: "24 hours, 7 days a week",
+    tel: "(718) 503-6499",
+    lat: "40.82111",
+    lon: "-73.92748",
+    description: "Prevention Assistance and Temporary Housing Office (PATH) Main Office.",
   },
   {
     title: "Elmcor Senior Services Center",
