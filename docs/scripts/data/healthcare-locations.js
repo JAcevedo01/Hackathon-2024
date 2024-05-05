@@ -58,6 +58,14 @@ export const HEALTHCARE_LOCATIONS = [
     description: "Department of Homeless Services. Intake Facility for Men",
   },
   {
+    title: "DHS Brooklyn Women's Shelter (Women)",
+    address: "116 Williams Avenue, Brooklyn, NY 11217",
+    hours: "24 hours, 7 days a week",
+    lat: "40.6731613",
+    lon: "-73.9004032",
+    description: "Department of Homeless Services. Intake Facility for Women",
+  },
+  {
     title: "DHS Franklin Women's Shelter",
     address: "1122 Franklin Avenue, Bronx, NY, 10456",
     hours: "24 hours, 7 days a week",
@@ -65,6 +73,104 @@ export const HEALTHCARE_LOCATIONS = [
     lat: "40.8281755",
     lon: "-73.9057433",
     description: "Department of Homeless Services. Intake Facility for Women",
+  },
+  {
+    title: "DHS Jamaica Armory (Women)",
+    address: "93-05 168th Street, Jamaica, NY 11434",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7056592",
+    lon: "-73.7922281",
+    description: "Department of Homeless Services. Intake Facility for Women",
+  },
+  {
+    title: "DHS Grand Central Neighborhood",
+    address: "145 East 43rd Street, New York, NY 10017",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7518788",
+    lon: "-73.9747726",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS John Heuss House",
+    address: "42 Beaver Street, New York, NY 10004",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7049674",
+    lon: "-74.0109633",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS Olivieri Center for Women",
+    address: "257 West 30th Street, New York, NY 10001",
+    hours: "24 hours, 7 days a week",
+    lon: "40.7495144",
+    lat: "-73.9944312",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS The Open Door",
+    address: "402 W. 41st St., New York, NY 10036",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7579583",
+    lon: "-73.993606",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS Neighborhood Center for Homeless People",
+    address: "237 East 77th Street, New York, NY 10028",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7726739",
+    lon: "-73.9573415",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS Peter's Place",
+    address: "123 West 23rd Street, New York, NY 10011",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7436202",
+    lon: "-73.9935682",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS Project Rescue",
+    address: "315 Bowery, New York, NY 10003",
+    hours: "24 hours, 7 days a week",
+    lat: "40.7251969",
+    lon: "-73.9919504",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS The Living Room",
+    address: "890 Garrison Avenue, Bronx, NY 11201",
+    hours: "24 hours, 7 days a week",
+    lat: "40.8171325",
+    lon: "-73.8912149",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS The Gathering Place",
+    address: "2402 Atlantic Avenue, Brooklyn, NY 11233",
+    hours: "24 hours, 7 days a week",
+    lat: "40.6757468",
+    lon: "-73.90533",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
+  },
+  {
+    title: "DHS Project Hospitality Drop-In Center",
+    address: "25 Central Avenue, Staten Island, NY 10036",
+    hours: "24 hours, 7 days a week",
+    lat: "40.6412017",
+    lon: "-74.0764822",
+    description:
+      "DHS provides temporary emergency shelter to homeless individuals in a safe environment. Drop-in center offering hot meals, showers, laundry facilities, clothing, medical care, recreational space, employment referrals, and other social services.",
   },
   {
     title: "AFIC Intake Facility",
