@@ -52,12 +52,9 @@ p {
 }
 /* Title Image */
 .title-image {
-  width: 10rem !important;
-  height: auto;
   align-items: center;
   padding: 10px;
-  max-width: 100%;
-  height: auto;
+  max-width: 18rem;
 }
 /* About */
 #about {
@@ -84,7 +81,7 @@ p {
   color: #fff;
 }
 .r-image {
-  width: 50%;
+  width: 40%;
   height: 50%;
   border-radius: 5%;
   margin: 50px;
