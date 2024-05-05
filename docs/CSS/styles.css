@@ -84,7 +84,8 @@ p {
   color: #fff;
 }
 .r-image {
-  width: 75%;
+  width: 50%;
+  height: 50%;
   border-radius: 5%;
   margin: 50px;
 }
@@ -99,16 +100,16 @@ p {
   margin: 20px 20px 50px;
 } */
 .carousel-item {
-  padding: 7% 15%;
+  padding: 5% 15%;
 }
 /* Pricing Section */
-#pricing {
+/* #pricing {
   padding: 100px;
   text-align: center;
 }
 .pricing-column {
   padding: 5% 3%;
-}
+} */
 
 @media (max-width: 1028px) {
   #title {
