@@ -24,7 +24,7 @@
   width: 1.4rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   #resources-container {
     display: block;
     width: 100vw;
