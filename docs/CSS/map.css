@@ -1,0 +1,22 @@
+#map {
+  height: 40rem;
+  width: 100%;
+}
+
+#resources-container {
+  width: 100vw;
+  height: 70vh;
+}
+
+#locations-list {
+  width: 30%;
+  overflow: scroll;
+}
+
+#map {
+  width: 70%;
+}
+
+.directions-logo {
+  width: 1.4rem;
+}
