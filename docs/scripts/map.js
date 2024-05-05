@@ -47,7 +47,12 @@ function initializeMap(dataList) {
     const telephone = location.tel ?? "";
     const telephoneHref = location.tel === undefined ? "" : `tel: ${location.tel}`;
 
-    const descriptionHtml = html`
+    const descriptionHtml =
+      location.description === undefined
+        ? ""
+        : html`<div><i>${location.description}</i></div>`.toString();
+
+    const locationDataHtml = html`
       <div>
         <div class="my-2">
           <div class="fw-bold">${location.title}</div>
@@ -56,13 +61,14 @@ function initializeMap(dataList) {
             <span>${location.hours + " • " ?? ""}</span> <a href="${telephoneHref}">${telephone}</a>
           </div>
         </div>
+        $${descriptionHtml}
         <div>
           <a href="${getGoogleMapsUrl(lat, lon)}" target="_blank">Get Directions</a>
         </div>
       </div>
     `.toString();
 
-    LEAFLET.marker([lat, lon]).addTo(map).bindPopup(descriptionHtml).openPopup();
+    LEAFLET.marker([lat, lon]).addTo(map).bindPopup(locationDataHtml).openPopup();
   }
 }
 
@@ -85,6 +91,11 @@ function initializeLocationList(dataList) {
         ? ""
         : html`<div>• ${location.facilityType ?? ""}</div>`.toString();
 
+    const descriptionHtml =
+      location.description === undefined
+        ? ""
+        : html`<div><i>${location.description}</i></div>`.toString();
+
     const newLiElement = html`
       <li
         class="list-group-item d-flex justify-content-between align-items-start border-bottom p-2"
@@ -95,7 +106,7 @@ function initializeLocationList(dataList) {
           <div>
             <span>${location.hours + " • " ?? ""}</span> <a href="${telephoneHref}">${telephone}</a>
           </div>
-          $${facilityTypeHtml}
+          $${facilityTypeHtml} $${descriptionHtml}
         </div>
         <a
           href="${getGoogleMapsUrl(lat, lon)}"
